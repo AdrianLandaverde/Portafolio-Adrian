@@ -1,28 +1,109 @@
-# Información de sección
+# section information
 section:
   name: Accomplishments
   id: accomplishments
   enable: true
   weight: 7
   showOnNavbar: true
- 
- 
-# Tus cursos
-accomplishments:
- 
-- name: "Curso 1" #Nombre del curso
-  timeline: "2022" #Año
-  organization:
-    name: Coursera #Nombre de la organización que da el curso
-    url: "https://es.coursera.org/" #link de la organización
-  courseOverview: "Descripción del curso" #Descripción
-  certificateURL: "Link" #Link del certificado
- 
-- name: "Curso 2" #Nombre del curso
-  timeline: "2022" #Año
-  organization:
-    name: Coursera #Nombre de la organización que da el curso
-    url: "https://es.coursera.org/" #link de la organización
-  courseOverview: "Descripción del curso" #Descripción
-  certificateURL: "files/kaggle_courses.pdf" #Ruta del certificado
+  # Can optionally hide the title in sections
+  # hideTitle: true
 
+
+# Your accomplishments
+
+accomplishments:
+
+- name: "Applied Data Science with Python"
+  timeline: "2022"
+  organization:
+    name: IBM
+  courseOverview: "Courses focused on Data Science skills with Python, which include: [Python for Data Science](https://www.credly.com/badges/dd555b17-d6f8-486e-90ed-89e1bce87861/public_url), 
+  [Data Visualization Using Python](https://www.credly.com/badges/2f30d0cf-5c9e-4a4a-9088-51a362a27233/public_url), 
+  [Data Analysis Using Python](https://www.credly.com/badges/7aeb8b0e-f4b0-4d43-9ca7-ea82c5e69418/public_url) . These courses provide the knowledge to 
+  analyze and visualize data with Python with packages like scikit-learn, matplotlib and bokeh"
+  certificateURL: "https://www.credly.com/badges/9f4a6a36-5cdf-4f24-94c2-ca18f7c7b9cb/public_url"
+
+- name: "SAS Viya"
+  timeline: "2022"
+  organization:
+    name: SAS
+  courseOverview: "Courses focused on SAS Viya skills on various topic such as [Building SAS Studio Flows in SAS Viya](https://www.credly.com/badges/f0234c71-f1f9-4e10-9a19-698dc620f4a4/public_url), 
+  [Programming for SAS Viya](https://www.credly.com/badges/8dec7587-411a-476d-a4d1-7b438a15095e/public_url), 
+  [SAS Visual Data Mining and Machine Learning on SAS Viya](https://www.credly.com/badges/8c513441-ea3c-4802-a80d-aaa542fb0603/public_url), 
+  [Forecasting Using Model Studio in SAS Viya](https://www.credly.com/badges/46b8b7c5-4b2a-4153-b3af-ee84a4082931/public_url), 
+  [Deep Learning Using SAS Software](https://www.credly.com/badges/1636c06a-1b99-4636-8a07-be3bc25e018f/public_url), and
+  [SAS Visual Text Analytics in SAS Viya](https://www.credly.com/badges/1e4d0417-53cf-4105-a790-b548a4a52dc3/public_url)
+  in order to create advanced analytics and forecasting models to predict various situations."
+  certificateURL: "files/SAS_Viya_certificados.pdf"
+  
+- name: "SAS Programming"
+  timeline: "2022"
+  organization:
+    name: SAS
+  courseOverview: "Courses focused on SAS Programming skills on various topic such as [SAS Programming 1: Essentials](https://www.credly.com/badges/d34facca-216d-4e02-9155-be112c2a535a/public_url), 
+  [SAS Programming 2: Data Manipulation Techniques](https://www.credly.com/badges/197f6b70-3a30-4729-ab25-1ee31444bbd8?source=linked_in_profile), 
+  [SAS SQL 1: Essentials](https://www.credly.com/badges/b976b88b-8c16-40eb-9d3c-28f1bd54a38e?source=linked_in_profile)
+  [Statistics 1: Introduction to ANOVA, Regression, and Logistic Regression](https://www.credly.com/badges/3ce109a7-1464-4e8b-b156-c3c310d068ff/public_url) 
+  in order to manipulate and transform data from various sources."
+  certificateURL: "files/SAS_programming_certificados.pdf"
+  
+- name: "Crystal-TEC Data Science Course"
+  timeline: "2022"
+  organization:
+    name: Crystal Systems
+  courseOverview: Crystal DSC offers extensive training on the most in-demand Data Science skills with handson exposure to key tools and technologies. Crystal DSC helps Talents to become an industry ready Data Scientist Talents by deep diving into the nuances of data interpretation, mastering powerful programming skills and focusing on the business acumen as an essential element.
+  certificateURL: "files/Crystal_Course.pdf"
+
+- name: "Applied Data Science with Python"
+  timeline: "2022"
+  organization:
+    name: Coursera
+  courseOverview: "An specialization program focused on data science with Python which includes 5 courses: [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/KLT6KWF97EQ9), 
+  [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/certificate/ZTG7R8VQXTMQ), 
+  [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/YNMPBFJ4584P), 
+  [Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/certificate/XBZMGFE2XGHD), 
+  and [Applied Social Network Analysis in Python](https://coursera.org/share/2f1574300a7e845d525b83b5d39219b5) which focuses on trnasformation of data, plotting, Machine Learning, text mining and network analysis"
+  certificateURL: "https://coursera.org/share/31dd855bc7bf609e0288c5dc2460d70e"
+
+
+- name: "Foundations of Sports Analytics: Data, Representation, and Models in Sports"
+  timeline: "2022"
+  organization:
+    name: Coursera
+  courseOverview: This course provides an introduction to using Python to analyze team performance in sports. Learners will discover a variety of techniques that can be used to represent sports data and how to extract narratives based on these analytical techniques. The main focus of the introduction will be on the use of regression analysis to analyze team and player performance data.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/66WD5LGWR8CB"
+
+- name: Data Science Micro-courses
+  timeline: "2021"
+  organization:
+    name: Kaggle
+  courseOverview: "Courses focused in data science from basic to advanced: Python, Data visualization, Pandas, Data Cleaning, Geospatial Analysis, Intro to Machine Learning, Machine Learning Explainability, Intermidiate Machine Learning, Feature Engineering, Time Series."
+  certificateURL: "files/kaggle_courses.pdf"
+
+- name: HeroX
+  timeline: "2021"
+  organization:
+    name: Conscious Business Center
+  courseOverview: It is a integral training proram for anyone who aspire to become a entrepreneurial leader and moral leader. It is a preparation to be an inspiring example of a full and virtuous life, a reflection of moral values ​​and virtues, that is, those that encourage the flourishing of conscious beings.
+  certificateURL: "files/LE-Certificado.pdf"
+
+- name: Android Fundamentals
+  timeline: "2020"
+  organization:
+    name: Coursera
+  courseOverview: Use of Android Studio tools to create simple interactive mobile apps
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/GYBWEQ8P9MA2"
+
+- name: Programming with Java for Android apps
+  timeline: "2020"
+  organization:
+    name: Coursera
+  courseOverview: Basic Java with Object Oriented Programming to program basic Android apps.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/CDLG24HZ5W4J"
+
+- name: "Front-End Web UI Frameworks and Tools: Bootstrap 4"
+  timeline: "2020"
+  organization:
+    name: Coursera
+  courseOverview: "This course will give you an overview of client-side web UI frameworks, in particular Bootstrap 4. You will learn about grids and responsive design, Bootstrap CSS and JavaScript components. You will learn about CSS preprocessors, Less and Sass. You will also learn the basics of Node.js and NPM and task runners like Grunt and Gulp."
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/2LMAYLN38ZF8"
