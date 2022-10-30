@@ -1,31 +1,23 @@
-# Nombre completo
-name: "Nombre Apellido1 Apellido2"
- 
-# Apodo, o sólo cómo te gusta que te digan
-nickname: "Nombre"
- 
-# Saludo inicial antes de tu apodo
+name: "Adrián Landaverde Nava"
+
+nickname: "Adrián"
+
 greeting: "Hi, I am"
- 
-# Imagen de ti
-image: "images/author/profile.png"
- 
-# Información de contacto
+
+image: "images/author/adrian.png"
+
 contactInfo:
-  email: "correo@gmail.com"
-  phone: "5512345678"
+  email: "adrianlandaverden@gmail.com"
+  phone: "5530510943"
   linkedin:
     icon: linkedin
-    url: "link de linkedin"
-    text: "Texto"
- 
- 
-# Descripción de ti
+    url: "https://www.linkedin.com/in/adri%C3%A1n-landaverde-nava-830331226/"
+    text: "Adrián Landaverde Nava"
+  
 summary:
   - I am a Data Scientist
-  - I am a ...
-  - I am a ...
-  - I am a ...
-  - I am a ...
-  - I am a ...
-  - I am a ...
+  - I am a self-taught person
+  - I am a Spartan
+  - I am vegan
+  - I am a HeroX
+  - I am a leader
