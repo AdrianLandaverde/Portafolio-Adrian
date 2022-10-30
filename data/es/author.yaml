@@ -1,29 +1,18 @@
-# Nombre completo
-name: "Nombre Apellido1 Apellido2"
- 
-# Apodo, o sólo cómo te gusta que te digan
-nickname: "Nombre"
- 
-# Saludo inicial antes de tu apodo
-greeting: "Hola, yo soy"
- 
-# Imagen de ti
+# some information about you
+name: "Adrián Landaverde Nava"
+nickname: "Adrián"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hola, soy"
 image: "images/author/adrian.png"
- 
-# Información de contacto
+# give your some contact information. they will be used in the footer
 contactInfo:
-  email: "correo@gmail.com"
-  phone: "5512345678"
-  linkedin:
-    icon: linkedin
-    url: "link de linkedin"
-    text: "Texto"
- 
- 
-# Descripción de ti
+  email: "adrianlandaverden@gmail.com"
+  phone: "5530510943"
+
 summary:
   - Soy un Científico de Datos
-  - Soy un ...
-  - Soy un ...
-  - Soy un ...
-  - Soy un ...
+  - Soy autodidacta
+  - Soy un Spartan
+  - Soy Vegano
+  - Soy un HeroX
+  - Soy un líder
