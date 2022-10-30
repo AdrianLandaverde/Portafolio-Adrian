@@ -1,4 +1,3 @@
-# Información de la sección
 section:
   name: About
   id: about
@@ -6,48 +5,80 @@ section:
   weight: 1
   showOnNavbar: true
   template: sections/about.html
- 
-# Tu puesto / Tu semestre
-designation: Engineering in Data Science and Maths
- 
-# Información de tu compañía / Escuela
+
+designation: Fifth semester in Engineering in Data Science and Maths
+
 company:
   name: Tec de Monterrey.
   url: "https://tec.mx/es/ciencias-aplicadas/ingeniero-en-ciencia-de-datos-y-matematicas"
- 
-# Tu CV
-resume: "files/cv.pdf"
- 
-# Resumen de ti
-summary: "Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga."
- 
-# Links a redes sociales
+
+resume: "files/CV_en.pdf"
+
+summary: "I am a passionate about data science and programming. I always go the extra mile in my academic and personal projects trying to do more than it is necessary
+I've won Data Science competitions such as
+- First place in the 10K challenge organized by the Data Science Hub of Tec de Monterrey .
+- First place in the Safe Roads 2022 organized by Toronto Police Service in Collaboration with SAS and Geotab.
+- Third place in the Data Science Course organized by Crystal Systems
+[Check this note about my experiences](https://conecta.tec.mx/es/noticias/estado-de-mexico/educacion/con-su-proyecto-la-policia-de-toronto-prevendra-accidentes-de-auto)
+I'm also president of the [SAIDM](https://instagram.com/saidm.cem?igshid=YmMyMTA2M2Y=) (Student Society of Engineering in Data Science and Maths at Tec de Monterrey Campus Estado de México, in which we organize courses related to Data Science."
+
 socialLinks:
 - name: Github
   icon: "fab fa-github"
-  url: "Link github personal"
- 
+  url: "https://github.com/AdrianLandaverde"
+
 - name: Linkedin
   icon: "fab fa-linkedin"
-  url: "Link linkedin personal"
- 
+  url: "https://www.linkedin.com/in/adri%C3%A1n-landaverde-nava-830331226/"
+
 - name: Email
   icon: "fas fa-envelope"
-  url: "correo@gmail.com"
- 
-# Insignias de hard skills y soft skills
-badges:
- 
-# Ejemplo soft skill
-- type: soft-skill-indicator
-  name: Leadership #Nombre de soft skill
-  percentage: 100 #Porcentaje que tienes / tamaño del círculo
-  color: blue #Color
- 
-# Ejemplo insignia (hard-skill)
-- type: certification
-  name: Applied Data Science with Python #Nombre de insignia
-  url: "https://www.credly.com/badges/" #Link de la insignia
-  badge: "https://images.credly.com/size/680x680/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" #Link imagen
- 
+  url: "adrianlandaverden@gmail.com"
 
+
+badges:
+
+- type: certification
+  name: Applied Data Science with Python
+  url: "https://www.credly.com/badges/9f4a6a36-5cdf-4f24-94c2-ca18f7c7b9cb/public_url"
+  badge: "https://images.credly.com/size/680x680/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png"
+  
+- type: certification
+  name: Safe Roads 2022
+  url: "https://www.credly.com/badges/eb14082b-f86e-4985-8c80-62a871dba503/public_url"
+  badge: "https://images.credly.com/size/680x680/images/52cfe4fa-a3eb-4799-b517-dc070f84242e/75566_badges_Challenge_Hackathon_Winner.png"
+  
+- type: certification
+  name: Deep Learning Using SAS Software
+  url: "https://www.credly.com/badges/1636c06a-1b99-4636-8a07-be3bc25e018f/public_url"
+  badge: "https://images.credly.com/size/680x680/images/c74581a3-be32-4634-9728-663f21aab7e0/62056_badges_Learn_DataScience.png"
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 100
+  color: blue
+  
+- type: soft-skill-indicator
+  name: Autodidact
+  percentage: 100
+  color: green
+  
+- type: soft-skill-indicator
+  name: Communication
+  percentage: 100
+  color: orange
+  
+- type: soft-skill-indicator
+  name: Hard Work
+  percentage: 100
+  color: sky
+  
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 100
+  color: yellow
+  
+- type: soft-skill-indicator
+  name: Curious
+  percentage: 100
+  color: pink
