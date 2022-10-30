@@ -1,39 +1,34 @@
-# Información de la sección
 section:
   name: Experiences
   id: experiences
   enable: true
   weight: 3
   showOnNavbar: true
- 
-# Tus experiencias
+
 experiences:
 - company:
-    name: Nombre Compañia.
-    url: "link"
-    overview: "Descripción."
+    name: SAS.
+    url: "https://www.sas.com/es_mx/home.html"
+    overview: Through innovative software and services, SAS empowers and inspires customers around the world to transform data into intelligence.
   positions:
-  - designation: Puesto
-    start: Jan 2022 
-    responsibilities:
-    - Responsabilidad 1
-    - Responsabilidad 2
-    - Responsabilidad 3
-    - Responsabilidad 4
- 
-- company:
-    name: Nombre Compañia.
-    url: "link"
-    overview: "Descripción."
-  positions:
-  - designation: Puesto
-    start: Jan 2022 
-    end: Feb 2022 
-    responsibilities:
-    - Responsabilidad 1
-    - Responsabilidad 2
-    - Responsabilidad 3
-    - Responsabilidad 4
- 
- 
+  - designation: Intern Consultant
+    start: May 2022
+    end: Nov 2022
 
+    responsibilities:
+    - Face Recognition of known criminals through video surveillance cameras
+    - Use of SAS Viya to develop a Computer Vision Model
+    - Use of SAS Viya for Deep Learning, Text Analytics and Forecasting 
+    - Use of SAS for Data Manipulation and SQL Queries
+
+- company:
+    name: Hello World.
+    url: "https://helloworldapp.000webhostapp.com/#"
+    overview: A social entrepreneurship focused on reduce inequalities to people with deafnesss.
+  positions:
+  - designation: Social Service
+    start: Jan 2022
+    end: Feb 2022
+    responsibilities:
+    - Analyze syntax of translation from Spanish to LSM with NLP
+    - Develop a translator from Spanish to LSM syntax using Machine Learning
