@@ -31,13 +31,13 @@ enableEmoji: true
 params:
   
   # Imagen de fondo
-  background: "images/site/fondo4.jpg"
+  background: "images/site/fondo.jpg"
   
   # Poner un logo al sitio
   logo:
-    main: /images/site/profile.png
-    inverted: /images/site/profile.png
-    favicon: /images/site/profile.png
+    main: /images/site/adrian.png
+    inverted: /images/site/adrian.png
+    favicon: /images/site/adrian.png
  
  # Habilitar tema oscuro
   darkMode:
