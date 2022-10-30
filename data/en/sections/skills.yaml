@@ -16,7 +16,7 @@ skills:
   summary: "Advanced Machine Learning deployment using Supervised and Unsupervised learning using Sickit Learn. Advanced use of Numpy, Pandas, Matplotlib and Seaborn. Experience with Web Scrapping using Selenium. Creation of Dashboards with Plotly and Dash"
 
 - name: R
-  logo: "/images/sections/skills/r.jpg"
+  logo: "/images/sections/skills/r.png"
   summary: "Basic Machine Learning deployment using Supervized Learning. Experience using ggpplot and tidyverse. Advanced use of Shiny to create Dashboards and its deployment into the Web"
 
 - name: SAS
