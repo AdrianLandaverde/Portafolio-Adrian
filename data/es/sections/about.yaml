@@ -1,52 +1,96 @@
-# Información de la sección
+# section information
 section:
-  name: Acerca de mi
+  name: "Acerca de mí"
   id: about
   enable: true
   weight: 1
   showOnNavbar: true
   template: sections/about.html
- 
-# Tu puesto / Tu semestre
-designation: Ingeniería en Ciencia de Datos y Matemáticas
- 
-# Información de tu compañía / Escuela
+
+# your designation
+designation: Cuarto semestre de Ingeniería en Ciencia de Datos y Matemáticas
+# your company information
 company:
   name: Tec de Monterrey.
   url: "https://tec.mx/es/ciencias-aplicadas/ingeniero-en-ciencia-de-datos-y-matematicas"
  
-# Tu CV
-resume: "files/es/cv.pdf"
- 
-# Resumen de ti
-summary: "Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga."
- 
-# Links a redes sociales
+resume: "files/CV_es.pdf"
+
+# a summary about you
+summary: "Me apasiona la ciencia de datos y la programación. Yo siempre doy un esfuerzo extra en mis proyectos académicos y personales al tratar de hacer más de lo necesario.
+
+He ganado competencias de Ciencia de Datos como:
+
+- Primer lugar del 10K Challenge organizado por el Hub de Ciencia de Datos del Tec de Monterrey 
+
+- Primer lugar de Safe Roads 2022 organizado por el servicio de Policía de Toronto, en colaboración con SAS y Geotab
+
+- Tercer lugar del curso de Ciencia de Datos organizado por la empresa Europea Crystal Systems
+
+
+[Checa esta nota sobre mis experiencias](https://conecta.tec.mx/es/noticias/estado-de-mexico/educacion/con-su-proyecto-la-policia-de-toronto-prevendra-accidentes-de-auto)
+
+
+También soy presidente de [SAIDM](https://instagram.com/saidm.cem?igshid=YmMyMTA2M2Y=) (Sociedad de Alumnos de Ingeniería en Ciencia de Datos y Matemáticas en el Tec de Monterrey Campus Estado de México, en el que organizamos cursos relacionados a ciencia de Datos"
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Github
   icon: "fab fa-github"
-  url: "Link github personal"
- 
+  url: "https://github.com/AdrianLandaverde"
+
 - name: Linkedin
   icon: "fab fa-linkedin"
-  url: "Link linkedin personal"
- 
+  url: "https://www.linkedin.com/in/adri%C3%A1n-landaverde-nava-830331226/"
+
 - name: Email
   icon: "fas fa-envelope"
-  url: "correo@gmail.com"
- 
-# Insignias de hard skills y soft skills
+  url: "adrianlandaverden@gmail.com"
+
+# your soft skills
 badges:
- 
-# Ejemplo soft skill
-- type: soft-skill-indicator
-  name: Liderazgo #Nombre de soft skill
-  percentage: 100 #Porcentaje que tienes / tamaño del círculo
-  color: blue #Color
- 
-# Ejemplo insignia (hard-skill)
 - type: certification
-  name: Applied Data Science with Python #Nombre de insignia
-  url: "https://www.credly.com/badges/" #Link de la insignia
-  badge: "https://images.credly.com/size/680x680/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" #Link imagen
- 
+  name: Applied Data Science with Python
+  url: "https://www.credly.com/badges/9f4a6a36-5cdf-4f24-94c2-ca18f7c7b9cb/public_url"
+  badge: "https://images.credly.com/size/680x680/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png"
+  
+- type: certification
+  name: Safe Roads 2022
+  url: "https://www.credly.com/badges/eb14082b-f86e-4985-8c80-62a871dba503/public_url"
+  badge: "https://images.credly.com/size/680x680/images/52cfe4fa-a3eb-4799-b517-dc070f84242e/75566_badges_Challenge_Hackathon_Winner.png"
+  
+- type: certification
+  name: Deep Learning Using SAS Software
+  url: "https://www.credly.com/badges/1636c06a-1b99-4636-8a07-be3bc25e018f/public_url"
+  badge: "https://images.credly.com/size/680x680/images/c74581a3-be32-4634-9728-663f21aab7e0/62056_badges_Learn_DataScience.png"
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 100
+  color: blue
+  
+- type: soft-skill-indicator
+  name: Autodidact
+  percentage: 100
+  color: green
+  
+- type: soft-skill-indicator
+  name: Communication
+  percentage: 100
+  color: orange
+  
+- type: soft-skill-indicator
+  name: Hard Work
+  percentage: 100
+  color: sky
+  
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 100
+  color: yellow
+  
+- type: soft-skill-indicator
+  name: Curious
+  percentage: 100
+  color: pink
