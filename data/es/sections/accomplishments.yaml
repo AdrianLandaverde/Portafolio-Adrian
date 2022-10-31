@@ -34,7 +34,7 @@ accomplishments:
   [Deep Learning usando SAS Software](https://www.credly.com/badges/1636c06a-1b99-4636-8a07-be3bc25e018f/public_url), and
   [SAS Visual Text Analytics en SAS Viya](https://www.credly.com/badges/1e4d0417-53cf-4105-a790-b548a4a52dc3/public_url)
   para crear mdoelos de pornósticos y analítica avanzados para predecir diversas situaciones."
-  certificateURL: "files/SAS_Viya_certificados.pdf"
+  certificateURL: "files/es/SAS_Viya_certificados.pdf"
 
 - name: "Programación SAS"
   timeline: "2022"
@@ -45,7 +45,7 @@ accomplishments:
   [SAS SQL 1: Fundamentos](https://www.credly.com/badges/b976b88b-8c16-40eb-9d3c-28f1bd54a38e?source=linked_in_profile)
   [Estadística 1: Introducción a ANOVA, Regresión y Regresión Logística](https://www.credly.com/badges/3ce109a7-1464-4e8b-b156-c3c310d068ff/public_url) 
   para manipular y transformar datos de diferntes fuentes."
-  certificateURL: "files/SAS_programming_certificados.pdf"
+  certificateURL: "files/es/SAS_programming_certificados.pdf"
 
 
 - name: "Curso de Ciencia de Datos Crystal-TEC"
@@ -53,7 +53,7 @@ accomplishments:
   organization:
     name: Crystal Systems
   courseOverview: Crystal DSC ofrece una amplia capacitación sobre las habilidades de ciencia de datos más demandadas con exposición práctica a herramientas y tecnologías clave. Crystal DSC ayuda a los talentos a convertirse en talentos científicos de datos listos para la industria al profundizar en los matices de la interpretación de datos, dominar poderosas habilidades de programación y enfocarse en la perspicacia comercial como un elemento esencial.
-  certificateURL: "files/Crystal_Course.pdf"
+  certificateURL: "files/es/Crystal_Course.pdf"
   
 - name: "Ciencia de Datos Aplicada con Python"
   timeline: "2022"
@@ -78,14 +78,14 @@ accomplishments:
   organization:
     name: Kaggle
   courseOverview: "Cursos enfocados en Ciencia de Datos desde básico hasta avanzado: Python, Visualizaciónde Datos, Pandas, Limpieza de Datos, Análisis Geospacial, Introducción al Aprendizaje Automático, Explicabilidad del Aprendizaje Automático, Aprendizaje Automático Intermedio, Ingeniería de Características, Series de Tiempo."
-  certificateURL: "files/kaggle_courses.pdf"
+  certificateURL: "files/es/kaggle_courses.pdf"
 
 - name: HeroX
   timeline: "2021"
   organization:
     name: Conscious Business Center
   courseOverview: "Es un programa de entrenamiento integral para cualquier persona que aspire a convertirse en líder emprendedor y héroe moral. Es una preparación para ser un ejemplo inspirador de vida plena y virtuosa, reflejo de los valores y virtudes morales, es decir, los que fomentan el florecimiento de los seres conscientes."
-  certificateURL: "files/LE-Certificado.pdf"
+  certificateURL: "files/es/LE-Certificado.pdf"
 
 - name: Fundamentos de Android
   timeline: "2020"
