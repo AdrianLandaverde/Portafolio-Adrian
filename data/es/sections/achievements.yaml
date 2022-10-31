@@ -11,14 +11,14 @@ section:
 # Your achievements achievements
 achievements:
 - title: 10K Challenge
-  image: /images/sections/achievements/10K_Challenge.jpg
+  image: /images/achievements/10K_Challenge.jpg
   summary: Primer Lugar en la categoría Adventurer del 10K Challenge.
 - title: Toluca Trifecta Weekend 2021
-  image: /images/sections/achievements/trifecta2021.jpg
+  image: /images/achievements/trifecta2021.jpg
   summary: Gané la maedalla Trifecta Weekend de Spartan Race en Toluca corriendo con cubrebocas.
 - title: The Hero Race
-  image: /images/sections/achievements/Hero_race.jpg
+  image: /images/achievements/Hero_race.jpg
   summary: Primer lugar en la carrera de 5Km del Hero Fund.
 - title: Triatlón Virtual de Ekzerco
-  image: /images/sections/achievements/TriatlonEkzerco.jpeg
+  image: /images/achievements/TriatlonEkzerco.jpeg
   summary: Gané el primer lugar individual y en equipos del Triatlón Virtual de Ekzerco
