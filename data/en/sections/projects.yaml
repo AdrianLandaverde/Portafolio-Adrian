@@ -98,7 +98,7 @@ Implementation of Random Forest to predict energy per day in the whole plant in 
   tags: ["Academic","R","Python","Machine Learning"]
 
 - name: Mario Kart 8 combination optimization
-  logo: /images/sections/projects/mario.png
+  logo: /images/projects/mario.png
   role: Personal
   timeline: "2021"
   url: "https://adrian-landaverde.shinyapps.io/MarioKart8/"  
@@ -109,7 +109,7 @@ Creation of a R Shiny Dashboard to find the combination nearest to certain stats
   tags: ["Personal","R"]
 
 - name: Air pollutants predictor in the CDMX
-  logo: /images/sections/projects/contaminante.png
+  logo: /images/projects/contaminante.png
   role: Academic
   timeline: "2021"
   repo: https://github.com/AdrianLandaverde/Contaminantes_en_la_CDMX 
