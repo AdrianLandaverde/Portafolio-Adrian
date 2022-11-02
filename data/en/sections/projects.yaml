@@ -29,6 +29,7 @@ buttons:
 projects:
 
 - name: Diabetes Classification
+  logo: /images/projects/diabetes.png
   role: Professional
   timeline: "2022"
   summary: "Exploratory Data Analysis of people with Diabetes. 
@@ -38,6 +39,7 @@ projects:
   tags: ["Academic","Python", "Machine Learning"]
 
 - name: Coppel Route Optimization
+  logo: /images/projects/coppel.png
   role: Professional
   timeline: "2022"
   summary: "Optimization of Coppel's routes of e-commerce. 
@@ -58,7 +60,7 @@ projects:
   tags: ["Professional","Python", "Machine Learning"]
   
 - name: QS World Ranking Analysis
-  #logo: /images/sections/projects/kubernetes.png
+  logo: /images/projects/qs.png
   role: Academic
   timeline: "2022"
   summary: "Analysis of the QS World Ranking and the QS World Ranking by Subject. 
@@ -68,7 +70,7 @@ projects:
   tags: ["Academic","Python","Machine Learning"]
 
 - name: Access to Health in State of México
-  #logo: /images/sections/projects/kubernetes.png
+  logo: /images/projects/salud.png
   role: Professional
   timeline: "2021"
   repo: https://github.com/AdrianLandaverde/10K_Challenge
@@ -82,7 +84,7 @@ Finally, the program receives an input of longitude and latitude and it shows th
   tags: ["Professional","R","Python","Machine Learning"]
 
 - name: Process Optimization for FEMSA-Coca Cola
-  #logo: /images/sections/projects/kubernetes.png
+  logo: /images/projects/femsa.png
   role: Academic
   timeline: "2021"
   #repo: https://github.com/AdrianLandaverde/Combinaciones_Mario_Kart_8
@@ -96,7 +98,7 @@ Implementation of Random Forest to predict energy per day in the whole plant in 
   tags: ["Academic","R","Python","Machine Learning"]
 
 - name: Mario Kart 8 combination optimization
-  #logo: /images/sections/projects/kubernetes.png
+  logo: /images/sections/projects/mario.png
   role: Personal
   timeline: "2021"
   url: "https://adrian-landaverde.shinyapps.io/MarioKart8/"  
@@ -107,7 +109,7 @@ Creation of a R Shiny Dashboard to find the combination nearest to certain stats
   tags: ["Personal","R"]
 
 - name: Air pollutants predictor in the CDMX
-  #logo: /images/sections/projects/kubernetes.png
+  logo: /images/sections/projects/contaminante.png
   role: Academic
   timeline: "2021"
   repo: https://github.com/AdrianLandaverde/Contaminantes_en_la_CDMX 
@@ -120,7 +122,7 @@ Presentation of every regression in a Shiny Dashboard in R."
   tags: ["Academic","R"]
 
 - name: Analysis of genes that cause colon cancer
-  #logo: /images/sections/projects/tensorflow.png
+  logo: /images/projects/genes.png
   role: Academic
   timeline: "2021"
   repo: https://github.com/AdrianLandaverde/Genes_Cancer_de_Colon
@@ -134,7 +136,7 @@ Analysis of the relation and effects of the genes that cause colon cancer evolve
   tags: ["R","Academic"]
 
 - name: Calories per gram of macro and micronutrients in my vegan diet
-  #logo: /images/sections/projects/toha.png
+  logo: /images/projects/calorias.png
   role: Academic
   timeline: "2020"
   #repo: https://github.com/hossainemruz/toha
