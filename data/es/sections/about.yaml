@@ -61,9 +61,9 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/52cfe4fa-a3eb-4799-b517-dc070f84242e/75566_badges_Challenge_Hackathon_Winner.png"
   
 - type: certification
-  name: Deep Learning Using SAS Software
-  url: "https://www.credly.com/badges/1636c06a-1b99-4636-8a07-be3bc25e018f/public_url"
-  badge: "https://images.credly.com/size/680x680/images/c74581a3-be32-4634-9728-663f21aab7e0/62056_badges_Learn_DataScience.png"
+  name: SAS Base Programming
+  url: "https://www.credly.com/badges/e587116f-a631-4b0c-891a-3659b94015f1/public_url"
+  badge: "https://images.credly.com/size/680x680/images/caa44bb1-cd83-44ad-bb28-5784e6a7a95a/new_certification_badge_image.png"
 
 - type: soft-skill-indicator
   name: Leadership
