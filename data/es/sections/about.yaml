@@ -65,6 +65,11 @@ badges:
   url: "https://www.credly.com/badges/e587116f-a631-4b0c-891a-3659b94015f1/public_url"
   badge: "https://images.credly.com/size/680x680/images/caa44bb1-cd83-44ad-bb28-5784e6a7a95a/new_certification_badge_image.png"
 
+- type: certification
+  name: Google Data Analysis
+  url: "https://www.credly.com/badges/f1af1d30-d2ee-4d6e-86ac-3d838548be66/public_url"
+  badge: "https://images.credly.com/size/680x680/images/015364a4-c68c-4c42-8060-3553118f2ff0/image.png"
+
 - type: soft-skill-indicator
   name: Leadership
   percentage: 100
@@ -79,11 +84,6 @@ badges:
   name: Communication
   percentage: 100
   color: orange
-  
-- type: soft-skill-indicator
-  name: Hard Work
-  percentage: 100
-  color: sky
   
 - type: soft-skill-indicator
   name: Team Work
