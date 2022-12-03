@@ -64,7 +64,7 @@ badges:
 - type: certification
   name: Google Data Analysis
   url: "https://www.credly.com/badges/f1af1d30-d2ee-4d6e-86ac-3d838548be66/public_url"
-  badge: "https://images.credly.com/size/680x680/images/015364a4-c68c-4c42-8060-3553118f2ff0/image.png"
+  badge: "/images/about/badgegoogle.png"
 
 - type: soft-skill-indicator
   name: Leadership
