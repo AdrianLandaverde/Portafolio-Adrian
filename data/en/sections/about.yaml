@@ -64,7 +64,7 @@ badges:
 - type: certification
   name: Google Data Analysis
   url: "https://www.credly.com/badges/f1af1d30-d2ee-4d6e-86ac-3d838548be66/public_url"
-  badge: "https://github.com/AdrianLandaverde/Portafolio-Adrian/blob/main/assets/images/about/badgegoogle.png"
+  badge: "https://raw.githubusercontent.com/AdrianLandaverde/Portafolio-Adrian/main/assets/images/about/badgegoogle.png"
 
 - type: soft-skill-indicator
   name: Leadership
