@@ -47,9 +47,9 @@ socialLinks:
 badges:
 
 - type: certification
-  name: Applied Data Science with Python
-  url: "https://www.credly.com/badges/9f4a6a36-5cdf-4f24-94c2-ca18f7c7b9cb/public_url"
-  badge: "https://images.credly.com/size/680x680/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png"
+  name: Google Data Analysis
+  url: "https://www.credly.com/badges/f1af1d30-d2ee-4d6e-86ac-3d838548be66/public_url"
+  badge: "https://raw.githubusercontent.com/AdrianLandaverde/Portafolio-Adrian/main/assets/images/about/badgegoogle.png"
   
 - type: certification
   name: Safe Roads 2022
@@ -62,31 +62,32 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/caa44bb1-cd83-44ad-bb28-5784e6a7a95a/new_certification_badge_image.png"
 
 - type: certification
-  name: Google Data Analysis
-  url: "https://www.credly.com/badges/f1af1d30-d2ee-4d6e-86ac-3d838548be66/public_url"
-  badge: "https://raw.githubusercontent.com/AdrianLandaverde/Portafolio-Adrian/main/assets/images/about/badgegoogle.png"
-
+  name: Applied Data Science with Python
+  url: "https://www.credly.com/badges/9f4a6a36-5cdf-4f24-94c2-ca18f7c7b9cb/public_url"
+  badge: "https://images.credly.com/size/680x680/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png"
+  
+- type: certification
+  name: Applied Data Science with R
+  url: "https://www.credly.com/badges/dded941b-75e2-496e-92ed-3cba100bab65/public_url"
+  badge: "https://images.credly.com/size/680x680/images/22c81aed-7c41-4043-ad1e-119c73a44f54/Applied_Data_Science_with_R.png"
+  
+- type: certification
+  name: Deep Learning
+  url: "https://www.credly.com/badges/46c170cc-3fae-4a18-80f4-3255669aa66f/public_url"
+  badge: "https://images.credly.com/size/680x680/images/747c6cdd-e728-446a-8e32-bbfb58fc04c7/Deep_Learning_-_Knowledge_2_Stars.png"
+  
+  
 - type: soft-skill-indicator
   name: Leadership
   percentage: 100
   color: blue
   
 - type: soft-skill-indicator
-  name: Autodidact
-  percentage: 100
-  color: green
-  
-- type: soft-skill-indicator
   name: Communication
   percentage: 100
-  color: orange
+  color: green
   
 - type: soft-skill-indicator
   name: Team Work
   percentage: 100
   color: yellow
-  
-- type: soft-skill-indicator
-  name: Curious
-  percentage: 100
-  color: pink
