@@ -52,9 +52,9 @@ badges:
   badge: "https://raw.githubusercontent.com/AdrianLandaverde/Portafolio-Adrian/main/assets/images/about/badgegoogle.png"
   
 - type: certification
-  name: Deep Learning
-  url: "https://www.credly.com/badges/46c170cc-3fae-4a18-80f4-3255669aa66f/public_url"
-  badge: "https://images.credly.com/size/680x680/images/747c6cdd-e728-446a-8e32-bbfb58fc04c7/Deep_Learning_-_Knowledge_2_Stars.png"
+  name: SAS Base Programming
+  url: "https://www.credly.com/badges/e587116f-a631-4b0c-891a-3659b94015f1/public_url"
+  badge: "https://images.credly.com/size/680x680/images/caa44bb1-cd83-44ad-bb28-5784e6a7a95a/new_certification_badge_image.png"
   
 - type: certification
   name: Safe Roads 2022
@@ -67,9 +67,9 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png"
   
 - type: certification
-  name: SAS Base Programming
-  url: "https://www.credly.com/badges/e587116f-a631-4b0c-891a-3659b94015f1/public_url"
-  badge: "https://images.credly.com/size/680x680/images/caa44bb1-cd83-44ad-bb28-5784e6a7a95a/new_certification_badge_image.png"
+  name: Deep Learning
+  url: "https://www.credly.com/badges/46c170cc-3fae-4a18-80f4-3255669aa66f/public_url"
+  badge: "https://images.credly.com/size/680x680/images/747c6cdd-e728-446a-8e32-bbfb58fc04c7/Deep_Learning_-_Knowledge_2_Stars.png"
   
 - type: certification
   name: Applied Data Science with R
