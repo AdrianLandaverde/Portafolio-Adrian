@@ -35,7 +35,7 @@ projects:
   Creation of a Dashboard using Plotly Dash. 
   Analysis of events by year, gender, type of violence, etc. 
   Development of an app to load registers to a database."
-  url: "https://diabetes-classification.onrender.com"
+  url: "https://dashbaord-dif-atizapan.onrender.com"
   tags: ["Academic","Python", "Machine Learning"]
 
 - name: Diabetes Classification
