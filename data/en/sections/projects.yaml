@@ -36,7 +36,7 @@ projects:
   Analysis of events by year, gender, type of violence, etc. 
   Development of an app to load registers to a database."
   url: "https://dashbaord-dif-atizapan.onrender.com"
-  tags: ["Academic","Python", "Machine Learning"]
+  tags: ["Academic","Python"]
 
 - name: Diabetes Classification
   role: Academic
