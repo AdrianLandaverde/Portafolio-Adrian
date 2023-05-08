@@ -25,7 +25,7 @@ skills:
 
 - name: SQL
   logo: "/images/skills/sql.png"
-  summary: "Advanced knowledge on database arquitecture, queries and joins of tables"
+  summary: "Advanced knowledge on database arquitecture, queries and joins of tables. Usage of Data Definition Language to insert data. Usage of Data Manipulation Language to transform data and get insights"
 
 - name: Tableau
   logo: "/images/skills/tableau.png"
@@ -33,8 +33,7 @@ skills:
 
 - name: Power BI
   logo: "/images/skills/powerbi.png"
-  summary: "Creation of dashboards using simple graphs"
-
+  summary: "Creation of dashboards using simple graphs, data storytelling skills derived from insghts of large amounts of data"
 
 - name: Matlab
   logo: "/images/skills/matlab.png"
