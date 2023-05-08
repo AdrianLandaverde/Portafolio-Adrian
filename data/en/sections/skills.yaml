@@ -25,7 +25,7 @@ skills:
 
 - name: SQL
   logo: "/images/skills/sql.png"
-  summary: "Advanced knowledge on database arquitecture, queries and joins of tables. Usage of Data Definition Language to insert data. Usage of Data Manipulation Language to transform data and get insights"
+  summary: "Usage of Data Definition Language to insert data. Usage of Data Manipulation Language to transform data and get insights"
 
 - name: Tableau
   logo: "/images/skills/tableau.png"
