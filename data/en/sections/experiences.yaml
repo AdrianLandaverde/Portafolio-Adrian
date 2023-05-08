@@ -7,6 +7,18 @@ section:
 
 experiences:
 - company:
+    name: deep_dive.
+    url: "https://dive.ai/"
+    overview: For companies with data-based innovation needs, deep_dive provides comprehensive consulting and technological development solutions that allow us to unlock the potential of our clients through tailor made cutting edge artificial intelligence and machine learning algorithms trained with structured and unstructured data.
+  positions:
+  - designation: Data Scientist Jr
+    start: March 2023
+    responsibilities:
+    - Creation of Machine Learning and Deep Learning models using Python
+    - Deployment of models and tasks using AWS tools and Docker
+
+
+- company:
     name: SAS.
     url: "https://www.sas.com/es_mx/home.html"
     overview: Through innovative software and services, SAS empowers and inspires customers around the world to transform data into intelligence.
@@ -20,3 +32,4 @@ experiences:
     - Use of SAS Viya to develop a Computer Vision Model
     - Use of SAS Viya for Deep Learning, Text Analytics and Forecasting 
     - Use of SAS for Data Manipulation and SQL Queries
+    
