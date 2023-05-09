@@ -34,6 +34,10 @@ skills:
 - name: Power BI
   logo: "/images/skills/powerbi.png"
   summary: "Creation of dashboards using simple graphs, data storytelling skills derived from insghts of large amounts of data"
+  
+- name: Google Cloud
+  logo: "/images/skills/googlecloud.png"
+  summary: "Google Cloud Foundations including Cloud fundamentals, infraestructure in google cloud, networking and Data, ML, and Artificial Intelligence in google cloud"
 
 - name: Matlab
   logo: "/images/skills/matlab.png"
@@ -42,7 +46,3 @@ skills:
 - name: Java
   logo: "/images/skills/java.png"
   summary: "Experience building mobile apps with Android Studio using Java as backend and XML as frontend and a SQL database. Experience building simple games such as Snake, Pacman, Flappy Bird, Frogger and Onitama."
-
-- name: Mathematica
-  logo: "/images/skills/mathematica.png"
-  summary: "Experience with complex calculations to solve differential equations. Experience creating graphs to visualize data in 2D, 3D and 4D."
