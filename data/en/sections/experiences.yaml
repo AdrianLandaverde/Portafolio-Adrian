@@ -7,12 +7,24 @@ section:
 
 experiences:
 - company:
+    name: Arena Analytics.
+    url: "https://arena-analytics.com/"
+    overview: We are a consulting firm specialized in transforming the Value Chain of our clients. We achieve deep and sustainable changes through the empowerment and accountability of people, as well as the creation of comprehensive and personalized solutions that enable better decisions.
+  positions:
+  - designation: Data Scientist Trainee
+    start: July 2023
+    responsibilities:
+    - Analysis of Data from international companies using Machine Learning
+    - Creation of interactive dashboards with Python
+    
+- company:
     name: deep_dive.
     url: "https://dive.ai/"
     overview: For companies with data-based innovation needs, deep_dive provides comprehensive consulting and technological development solutions that allow us to unlock the potential of our clients through tailor made cutting edge artificial intelligence and machine learning algorithms trained with structured and unstructured data.
   positions:
   - designation: Data Scientist Jr
     start: March 2023
+    end: July 2023
     responsibilities:
     - Creation of Machine Learning and Deep Learning models using Python
     - Deployment of models and tasks using AWS tools and Docker
