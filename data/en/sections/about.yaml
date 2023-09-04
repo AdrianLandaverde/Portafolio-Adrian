@@ -80,6 +80,24 @@ badges:
   name: Applied Data Science with R
   url: "https://www.credly.com/badges/dded941b-75e2-496e-92ed-3cba100bab65/public_url"
   badge: "https://images.credly.com/size/680x680/images/22c81aed-7c41-4043-ad1e-119c73a44f54/Applied_Data_Science_with_R.png"
+
+- type: certification
+  name: Docker Essentials
+  url: https://www.credly.com/badges/79ff6c55-352d-4867-a64b-448a2215f898/public_url"
+  badge: "https://images.credly.com/size/680x680/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png"
+
+- type: certification
+  name: AWS Academy Data Analytics
+  url: "https://www.credly.com/badges/480e0fff-3225-405e-9975-6f95583bf5ec/public_url"
+  badge: "https://images.credly.com/size/680x680/images/4a489a8c-0b2d-40ee-a839-afa55b44208d/image.png"
+
+- type: certification
+  name: Azure Space
+  url: "https://www.credly.com/badges/52d1d2b7-11bf-4449-b63e-f5667f593a31/public_url"
+  badge: "https://images.credly.com/size/680x680/images/d62dcf8f-1ad4-42d4-9a07-1c59e2d5d9e9/image.png"
+
+  
+  
   
 
   
