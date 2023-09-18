@@ -28,6 +28,16 @@ buttons:
 # your projects
 projects:
 
+- name: Reflexion Buddy
+  role: Professional
+  timeline: "2023"
+  summary: "Reflexion Buddy transforms spoken words into written entries, supports multiple languages, 
+  and enhances journaling through interactive conversations. 
+  It summarizes entries, infers themes, and analyzes emotions, organizing insights 
+  into a digital diary for easy reflection on personal growth and experiences."
+  url: "https://devpost.com/software/reflexion-buddy"
+  tags: ["Professional","Python", "Machine Learning"]
+
 - name: DIF Violence Analysis
   role: Academic
   timeline: "2022"
