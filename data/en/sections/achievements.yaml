@@ -23,15 +23,15 @@ achievements:
   image: /images/achievements/saferoads.jpg
   summary: First Place in the Safe Roads Competition with Toronto City and SAS
 
-- title: 10K Challenge
-  image: /images/achievements/10K_Challenge.jpg
-  summary: First place in the 10K Challenge Adventurer Category.
-- title: Toluca Trifecta Weekend 2021
-  image: /images/achievements/trifecta2021.jpg
-  summary: I won a Trifecta WeekendSpartan Race medal at Toluca running with facemask.
 - title: The Hero Race
   image: /images/achievements/Hero_race.jpg
   summary: First Place in the 5Km Race from The Hero Fund.
 - title: Virtual Triathlon by Ekzerco
   image: /images/achievements/TriatlonEkzerco.jpeg
   summary: I won the first place individual and in teams in the Virtual Triathlon by Ekzerco
+- title: Toluca Trifecta Weekend 2021
+  image: /images/achievements/trifecta2021.jpg
+  summary: I won a Trifecta WeekendSpartan Race medal at Toluca running with facemask.
+- title: 10K Challenge
+  image: /images/achievements/10K_Challenge.jpg
+  summary: First place in the 10K Challenge Adventurer Category.
