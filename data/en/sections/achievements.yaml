@@ -10,6 +10,19 @@ section:
 
 # Your achievements achievements
 achievements:
+- title: Boston Hacks
+  image: /images/achievements/bostonhacks.jpg
+  summary: First place Sustainable Solution and Best use of Github at Boston Hacks.
+- title: Spartan Ultra
+  image: /images/achievements/spartan-ultra.jpg
+  summary: Fourth place at Spartan Ultra (50 Km) in San Luis Potosi
+- title: Hack MIT
+  image: /images/achievements/hackmit.jpg
+  summary: First Place in IBM AI challenge at Hack MIT.
+- title: Safe Roads
+  image: /images/achievements/saferoads.jpg
+  summary: First Place in the Safe Roads Competition with Toronto City and SAS
+
 - title: 10K Challenge
   image: /images/achievements/10K_Challenge.jpg
   summary: First place in the 10K Challenge Adventurer Category.
