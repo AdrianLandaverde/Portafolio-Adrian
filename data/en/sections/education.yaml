@@ -26,6 +26,30 @@ degrees:
   - "HeroX: I participated in the second generation of the program HeroX about conscious leadership"
   - "Eugenio Garza Sada Global Leadership Program: I'm in the first geneartion of this global leadership program leaded by Dr. Kasonde Musoma"
   - "SAIDM: I'm the president of the Engineering in Data Science and Maths Student Group, in which we organize data science courses for the TEC community"
+
+- name: Semester Abroad
+  icon: fa-solid fa-globe
+  timeframe: 2023
+  institution:
+    name: Boston University
+    url: "https://www.bu.edu/"
+  grade: #(optional)
+    scale: GPA
+    achieved: 4
+    outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 3
+    courses:
+    - name: Applied Machine Learning
+    - name: Reinforcement Learning
+    - name: Introduction to Quantitative Environmental Analysis
+  extracurricularActivities: #(optional)
+  - "Sports: Swimming, Hiking in the White Mountains, Running in the Charles River, Cycling in the Minuteman Bikeway"
+  - "Hackathons: I participated in 4 hackathons: HackMIT, Hack Harvard, Hack UTD and Boston Hacks, won 4 prizes"
+  
+
 - name: International Baccalaureate
   icon: fa-university
   timeframe: 2017-2020
