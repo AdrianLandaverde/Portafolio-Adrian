@@ -6,7 +6,7 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-designation: Seventh semester in Engineering in Data Science and Maths
+designation: Eighth semester in Engineering in Data Science and Maths
 
 company:
   name: Tec de Monterrey.
@@ -16,9 +16,11 @@ resume: "files/CV_English.pdf"
 
 summary: "I am a passionate about data science and programming. I always go the extra mile in my academic and personal projects trying to do more than it is necessary
 
-I've won Data Science competitions such as
+I've won Data Science competitions and Hackathons such as
 
-- First place of IBM combining AI and the Physical World Challenge AT HackMIT 2023 with [Reflexion Buddy](https://devpost.com/software/reflexion-buddy)
+- Firts place in  Sustainable Track and most creative use of Github at Boston Hacks with [Sustainable AF](https://devpost.com/software/sustainable-af)
+
+- First place of IBM combining AI and the Physical World Challenge At HackMIT 2023 with [Reflexion Buddy](https://devpost.com/software/reflexion-buddy)
 
 - First place in the Safe Roads 2022 organized by Toronto Police Service in Collaboration with SAS and Geotab.
 
@@ -42,7 +44,7 @@ socialLinks:
 
 - name: Linkedin
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/adri%C3%A1n-landaverde-nava-830331226/"
+  url: "https://www.linkedin.com/in/adrian-landaverde-nava/"
 
 - name: Email
   icon: "fas fa-envelope"
@@ -98,12 +100,6 @@ badges:
   url: "https://www.credly.com/badges/52d1d2b7-11bf-4449-b63e-f5667f593a31/public_url"
   badge: "https://images.credly.com/size/680x680/images/d62dcf8f-1ad4-42d4-9a07-1c59e2d5d9e9/image.png"
 
-  
-  
-  
-
-  
-  
 - type: soft-skill-indicator
   name: Leadership
   percentage: 100
