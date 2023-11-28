@@ -12,21 +12,53 @@ section:
 buttons:
 - name: All
   filter: "all"
+- name: Machine Learning
+  filter: "Machine Learning"
 - name: Python
   filter: "Python"
 - name: R
   filter: "R"
-- name: Machine Learning
-  filter: "Machine Learning"
+- name: Web Development
+  filter: "Web Development"
+- name: Cloud Computing
+  filter: "Cloud Computing"
 - name: Academic
   filter: "Academic"
-- name: Professional
-  filter: "Professional"
+- name: Competitions
+  filter: "Competitions"
 - name: Personal
   filter: "Personal"
 
 # your projects
 projects:
+
+- name: "Sustainable AF"
+  role: Competitions
+  timeline: "2023"
+  summary: "Introducing our innovative web app, offering tools for effortless integration of sustainability into daily life. 
+  Purposeful journey planning, eco-conscious dining choices, and solar-roof mapping empower individuals to make impactful, 
+  planet-friendly decisions."
+  url: "https://devpost.com/software/cropnsoil"
+  tags: ["Competitions", "Machine Learning", "Web Development", "Cloud Computing", "Python"]
+
+- name: "Move Out with us"
+  role: Competitions
+  timeline: "2023"
+  summary: "Unlock homeownership through our cutting-edge web platform. 
+  Assess eligibility using Fannie Mae's metrics. 
+  Approved users explore available homes on a dynamic map, accessing Fannie Mae's resources. 
+  For others, our platform offers personalized advice via an AI-powered chatbot."
+  url: "https://devpost.com/software/cropnsoil"
+  tags: ["Competitions", "Machine Learning", "Web Development", "Cloud Computing", "Python"]
+
+- name: "Crop N Soil"
+  role: Competitions
+  timeline: "2023"
+  summary: "CropNsoil optimizes farming with precise intercropping strategies. 
+  Our innovative program boosts efficiency, increases revenue, and promotes sustainability. 
+  Tailored to your location, it ensures eco-conscious practices for a prosperous and planet-friendly agricultural future."
+  url: "https://devpost.com/software/cropnsoil"
+  tags: ["Competitions", "Machine Learning", "Python"]
 
 - name: Reflexion Buddy
   role: Professional
@@ -36,7 +68,7 @@ projects:
   It summarizes entries, infers themes, and analyzes emotions, organizing insights 
   into a digital diary for easy reflection on personal growth and experiences."
   url: "https://devpost.com/software/reflexion-buddy"
-  tags: ["Professional","Python", "Machine Learning"]
+  tags: ["Competitions", "Machine Learning", "Python"]
 
 - name: DIF Violence Analysis
   role: Academic
@@ -75,7 +107,7 @@ projects:
   Geographical analysis in time of traffic collisions on both zones. 
   Use of Machine Learning to cluster public places based on danger to have accidents near them and an algorithm to predict the probability of an accident based on the weather"
   url: "https://youtu.be/3Cey1PUhGBg"
-  tags: ["Professional","Python", "Machine Learning"]
+  tags: ["Competitions","Python", "Machine Learning"]
   
 - name: QS World Ranking Analysis
   role: Academic
@@ -105,7 +137,7 @@ Creation of variables in every point of the State of Mexico.
 Multidimensional clustering using K-means to identify the level of access to health.
 Attempt to predict the acces to health using Random Forest, KNN, SVM and logistic regression
 Finally, the program receives an input of longitude and latitude and it shows the level of health in that zone in a map using KNN."
-  tags: ["Professional","R","Python","Machine Learning"]
+  tags: ["Competitions","R","Python","Machine Learning"]
 
 - name: Process Optimization for FEMSA-Coca Cola
   role: Academic
