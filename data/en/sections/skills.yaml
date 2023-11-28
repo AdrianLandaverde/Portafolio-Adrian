@@ -13,7 +13,7 @@ section:
 skills:
 - name: Python
   logo: "/images/skills/python.png"
-  summary: "Advanced Machine Learning deployment using Supervised and Unsupervised learning using Sickit Learn. Advanced use of Numpy, Pandas, Matplotlib and Seaborn. Experience with Web Scrapping using Selenium. Creation of Dashboards with Plotly and Dash"
+  summary: "Advanced use of Numpy, Pandas, Matplotlib, Plotly, Dash. Advanced Machine Learning, Deep Learning and Reinforcement Learning with Scikit-learn, Tensorflow, PyTorch. Web Scrapping with Seleniun, Beautiful Soup. Creation of API's with Flask and FastAPI"
 
 - name: R
   logo: "/images/skills/r.png"
@@ -25,7 +25,7 @@ skills:
 
 - name: SQL
   logo: "/images/skills/sql.png"
-  summary: "Usage of Data Definition Language to insert data. Usage of Data Manipulation Language to transform data and get insights"
+  summary: "Usage of Data Definition Language to insert data. Usage of Data Manipulation Language to transform data and get insights. Use of Data Query Language to get insights from data."
 
 - name: Tableau
   logo: "/images/skills/tableau.png"
@@ -37,7 +37,7 @@ skills:
   
 - name: Google Cloud
   logo: "/images/skills/googlecloud.png"
-  summary: "Google Cloud Foundations including Cloud fundamentals, infraestructure in google cloud, networking and Data, ML, and Artificial Intelligence in google cloud"
+  summary: "Vertex AI for Tabular data, Images and Text. Fine tunning of LLM. Data Analytics with BigQuery. Deployment of API's with App Engine. Usage of Google Maps API's"
 
 - name: Matlab
   logo: "/images/skills/matlab.png"
@@ -45,4 +45,4 @@ skills:
 
 - name: Java
   logo: "/images/skills/java.png"
-  summary: "Experience building mobile apps with Android Studio using Java as backend and XML as frontend and a SQL database. Experience building simple games such as Snake, Pacman, Flappy Bird, Frogger and Onitama."
+  summary: "Experience building mobile apps with Android Studio using Java as backend and XML as frontend and a SQL database. Experience building simple vintage videogames"
