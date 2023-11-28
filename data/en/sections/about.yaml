@@ -124,12 +124,12 @@ badges:
 - type: soft-skill-indicator
   name: Creativity
   percentage: 100
-  color: red
+  color: pink
 
 - type: soft-skill-indicator
-  name: Problem Solving
+  name: Self-Learning
   percentage: 100
-  color: purple
+  color: sky
 
 - type: soft-skill-indicator
   name: Adaptability
