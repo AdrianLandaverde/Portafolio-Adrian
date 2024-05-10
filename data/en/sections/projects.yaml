@@ -38,7 +38,7 @@ projects:
   summary: "Introducing our innovative web app, offering tools for effortless integration of sustainability into daily life. 
   Purposeful journey planning, eco-conscious dining choices, and solar-roof mapping empower individuals to make impactful, 
   planet-friendly decisions."
-  url: "https://devpost.com/software/cropnsoil"
+  url: "https://devpost.com/software/sustainable-af"
   tags: ["Competitions", "Machine Learning", "Web Development", "Cloud Computing", "Python"]
 
 - name: "Move Out with us"
@@ -48,7 +48,7 @@ projects:
   Assess eligibility using Fannie Mae's metrics. 
   Approved users explore available homes on a dynamic map, accessing Fannie Mae's resources. 
   For others, our platform offers personalized advice via an AI-powered chatbot."
-  url: "https://devpost.com/software/cropnsoil"
+  url: "https://devpost.com/software/fannie-mate"
   tags: ["Competitions", "Machine Learning", "Web Development", "Cloud Computing", "Python"]
 
 - name: "Crop N Soil"
